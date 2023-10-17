@@ -1,0 +1,15 @@
+font name-roboto,poppins
+font link- https: //fonts.google.com/specimen/Roboto
+           https: //fonts.google.com/specimen/Poppins
+
+
+colors palatte-
+
+
+   peach-efbc9b 
+   persian pink-ee92c2 
+   sky magenta-c67ea6 
+   mountbatten pink-9d6a89 
+   wenge-725d68 
+   ash gray-a8b4a5
+      
